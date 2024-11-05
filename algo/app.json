@@ -1,7 +1,7 @@
 {
   "id": "2ab21196-21aa-4d97-8f64-1758bba2e659",
-  "name": "algo",
-  "publisher": "Default Publisher",
+  "name": "Q/A Test Project",
+  "publisher": "Parge Yazilim Danismanlik Tic.A.S.",
   "version": "1.0.0.0",
   "brief": "",
   "description": "",
@@ -13,7 +13,7 @@
   "dependencies": [],
   "screenshots": [],
   "platform": "1.0.0.0",
-  "application": "22.0.0.0",
+  "application": "24.0.0.0",
   "idRanges": [
     {
       "from": 62000,
